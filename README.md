@@ -45,4 +45,13 @@ https://github.com/vineelpolavarapu/sentiment-analysis-of-IMDB-datasets-for-movi
 2. **Installment requirements**
 requirements.txt
 
+
+
+3. **Download Model Files**
+- Place `imdb_sentiment_analysis.h5`, `imdb_word_index.pkl` and `maxlen.pkl` in your project folder.
+- (If the files are too big for GitHub, provide Google Drive links here and update instructions.)
+
+4. **Run the app locally**
+
+
    
