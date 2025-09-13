@@ -95,4 +95,21 @@ requirements.txt
 - screenshots/ # App demo images
 - tkinter_gui.py #UI for simple interface
 - README.md # This file
-   
+
+
+---
+
+## 🤝 Acknowledgments
+
+- [IMDB Movie Reviews Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
+- [TensorFlow](https://www.tensorflow.org/)
+- [keras](https://www.keras.org)
+- [VS Code](https://code.visualstudio.com/)
+---
+
+## 📬 Contact
+
+Have questions or feedback?  
+Reach out via [LinkedIn](www.linkedin.com/in/vineelkumarpolavarapu) or raise an issue in the repo.
+
+
