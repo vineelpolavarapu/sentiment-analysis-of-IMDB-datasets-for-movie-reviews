@@ -48,7 +48,7 @@ requirements.txt
 
 
 3. **Download Model Files**
-- `imdb_sentiment_analysis.h5`, `imdb_word_index.pkl` and `maxlen.pkl.
+- `imdb_sentiment_analysis.h5`, `imdb_word_index.pkl` and `maxlen.pkl`.
 
 
 4. **Run the app locally**
