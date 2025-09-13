@@ -2,4 +2,8 @@ python
 tensorflow
 keras
 tkinter
+numpy
+matplotlib
+pandas
+scikit-learn
 IDE (Prefer VS code)
