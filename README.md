@@ -68,4 +68,25 @@ requirements.txt
 - "excellent movie i loved it".
 - "bad movie in recent time".
 - "worst movie i've ever experience".
+
+
+#### Example Output:
+
+- "Movie Review is Positive"
+- "Movie Review is Negative"
+
+---
+
+## 📝 Project Highlights
+
+- Custom text preprocessing from user and word indexing, simulating real-world NLP pipeline.
+- TensorFlow model pre-trained for reliable inference.
+- Interactive and simple UI with tkinter, easy for non-technical users.
+- Code is well-documented for clarity and learning.
+
+---
+
+## 📂 Repository Structure
+
+
    
