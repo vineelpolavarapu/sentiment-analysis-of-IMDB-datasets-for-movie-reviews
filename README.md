@@ -88,5 +88,11 @@ requirements.txt
 
 ## 📂 Repository Structure
 
-
+- imdb_sentiment_analysis.h5 # Trained model weights
+- imdb_word_index.pkl # Word-index mapping used for encoding
+- maxlen.pkl # Sequence length value
+- requirements.txt # Python dependencies
+- screenshots/ # App demo images
+- tkinter_gui.py #UI for simple interface
+- README.md # This file
    
