@@ -19,6 +19,7 @@ A Python project that predicts movie review sentiment (Positive/Negative) using 
 
 <!-- Insert an image like below. Upload screenshots to your repo, then use their GitHub URL. -->
 ![project Screenshot](Screenshot.png.png)
+![project Screenshot](Screenshot1.png.png)
 
 ---
 
