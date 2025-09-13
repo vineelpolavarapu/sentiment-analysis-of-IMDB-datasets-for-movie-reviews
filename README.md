@@ -103,7 +103,8 @@ requirements.txt
 
 - [IMDB Movie Reviews Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
 - [TensorFlow](https://www.tensorflow.org/)
-- [keras](https://www.keras.org)
+- [keras](https://pypi.org/project/keras/)
+- [tkinter](https://docs.python.org/3/library/tkinter.html)
 - [VS Code](https://code.visualstudio.com/)
 ---
 
