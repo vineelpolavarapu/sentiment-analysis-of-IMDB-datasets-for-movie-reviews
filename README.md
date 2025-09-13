@@ -43,6 +43,6 @@ A Python project that predicts movie review sentiment (Positive/Negative) using 
 https://github.com/vineelpolavarapu/sentiment-analysis-of-IMDB-datasets-for-movie-reviews
 
 2. **Installment requirements**
-
+requirements.txt
 
    
