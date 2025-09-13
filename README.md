@@ -54,4 +54,18 @@ requirements.txt
 4. **Run the app locally**
 
 
+---
+
+## 💡 Usage
+
+- Enter a movie review in the text area.
+- Press "Predict Sentiment."
+- Get instant Positive/Negative result with confidence!
+
+#### Example Input:
+
+- "Movie was good and i really like it".
+- "excellent movie i loved it".
+- "bad movie in recent time".
+- "worst movie i've ever experience".
    
