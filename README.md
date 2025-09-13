@@ -110,6 +110,7 @@ requirements.txt
 ## 📬 Contact
 
 Have questions or feedback?  
+
 Reach out via [LinkedIn](www.linkedin.com/in/vineelkumarpolavarapu) or raise an issue in the repo.
 
 
