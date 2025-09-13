@@ -26,8 +26,9 @@ A Python project that predicts movie review sentiment (Positive/Negative) using 
 
 - Python 3.x
 - TensorFlow / Keras
-- Streamlit
-- NumPy, Pickle
+- tkinter
+- Pickle
+- Visual studio
 
 ---
 
