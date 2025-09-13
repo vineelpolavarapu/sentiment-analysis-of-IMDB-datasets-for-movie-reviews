@@ -48,8 +48,8 @@ requirements.txt
 
 
 3. **Download Model Files**
-- Place `imdb_sentiment_analysis.h5`, `imdb_word_index.pkl` and `maxlen.pkl` in your project folder.
-- (If the files are too big for GitHub, provide Google Drive links here and update instructions.)
+- `imdb_sentiment_analysis.h5`, `imdb_word_index.pkl` and `maxlen.pkl.
+
 
 4. **Run the app locally**
 
